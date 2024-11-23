@@ -18,8 +18,8 @@ A simple Python-based command-line application for converting temperatures betwe
 ## 🛠️ Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Temperature-Converter-CLI.git
-   cd Temperature-Converter-CLI
+   git clone https://github.com/your-username/PRODIGY-SD-01.git
+   cd PRODIGY-SD-01
    ```
 2. Ensure you have Python installed (Python 3.6 or higher recommended).
 3. Run the program:
