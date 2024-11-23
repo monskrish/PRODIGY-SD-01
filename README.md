@@ -74,32 +74,3 @@ Fahrenheit: 32.0
 Enter temperature (or type 'exit' to quit): exit
 Goodbye!
 ```
-
----
-
-## 🤝 Contributions
-Contributions are welcome!  
-Feel free to:
-- Fork the repository.
-- Submit bug fixes or feature enhancements via pull requests.
-- Open issues for feature requests or bugs.
-
----
-
-## ⭐ Acknowledgements
-Inspired by a basic need for quick and accurate temperature conversions. This project is designed for Python enthusiasts and learners.
-
----
-
-Made with ❤️ by [Monish](https://github.com/monskrish)
-```
-
-### Steps to Add:
-1. Save the content above in a file named `README.md`.
-2. Add it to your repository root folder.
-3. Commit and push the file to GitHub:
-   ```bash
-   git add README.md
-   git commit -m "Add README file"
-   git push origin main
-   ```
